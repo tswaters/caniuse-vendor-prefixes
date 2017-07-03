@@ -1,0 +1,12 @@
+{
+  "name": "caniuse-vendor-prefixes",
+  "version": "1.0.0",
+  "description": "Outputs features from caniuse where vendor prefixes are required",
+  "main": "index.js",
+  "author": "Tyler Waters <tyler.waters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "caniuse-db": "^1.0.30000696",
+    "chalk": "^2.0.1"
+  }
+}
